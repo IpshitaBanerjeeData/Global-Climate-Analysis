@@ -16,6 +16,7 @@ This is a comprehensive, end-to-end data analysis project that explores the hist
 * **Pandas:** The primary Python library used for data manipulation.
 * **SQL (SQLite):** Utilized for data storage and to perform complex queries for analysis.
 * **Tableau:** The main business intelligence tool used to create an interactive and professional dashboard.
+* **Google Sheets:** Utilized for transparent project documentation and as a clear log of all data cleaning and transformation steps.
 
 ### **Project Structure & Files**
 
@@ -27,7 +28,7 @@ This is a comprehensive, end-to-end data analysis project that explores the hist
 
 ### **Documentation & Data Sources**
 
-* **Data Documentation & Cleaning Log:** (https://docs.google.com/spreadsheets/d/1LoJWHgR90QtiVLOkVbUwLNmS4HoakTyCNiCYJzCG9MU/edit?gid=517219130#gid=517219130)
+* **Data Documentation & Cleaning Log:** (https://docs.google.com/spreadsheets/d/1LoJWHgR90QtiVLOkVbUwLNmS4HoakTyCNiCYJzCG9MU/edit?usp=sharing)
 * **Global Temperature Data:** [NASA Goddard Institute for Space Systems (GISS)](https://data.giss.nasa.gov/gistemp/) 
 * **CO2 Emissions Data:** [Our World in Data (OWID)](https://ourworldindata.org/co2-and-greenhouse-gas-emissions)
 
@@ -35,5 +36,3 @@ This is a comprehensive, end-to-end data analysis project that explores the hist
 
 View the interactive dashboard on Tableau Public:
 (https://public.tableau.com/app/profile/ipshita.banerjee/viz/TheClimateConnectionADataAnalysis/GlobalTemperatureCO2Analysis?publish=yes)
-
-*Note: The best practice is to publish your final dashboard to Tableau Public and include the link here. This allows recruiters to view your work without needing Tableau Desktop.*
